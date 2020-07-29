@@ -76,4 +76,4 @@ include_once('php_include/connection.php');
               hr.send(vars); // this function kicks off the request and code above
               //document.getElementById("calendar_view").innerHTML = "processing...";
             }
-            </script>
+     </script>
