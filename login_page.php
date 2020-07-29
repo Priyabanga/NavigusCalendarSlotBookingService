@@ -9,7 +9,6 @@
 </script>
 </head>
 <body>
-
 <?php include_once("page_header.php"); ?>
 <div id="main">
 	<form>
